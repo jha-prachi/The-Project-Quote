@@ -61,23 +61,23 @@ class TestApp extends StatelessWidget {
   ];
   List<Widget> dates = [
     Text(
-      '1',
+      '01',
       style: TextStyle(color: Colors.white, fontSize: 20),
     ),
     Text(
-      '2',
+      '02',
       style: TextStyle(color: Colors.white, fontSize: 20),
     ),
     Text(
-      '3',
+      '03',
       style: TextStyle(color: Colors.white, fontSize: 20),
     ),
     Text(
-      '4',
+      '04',
       style: TextStyle(color: Colors.white, fontSize: 20),
     ),
     Text(
-      '5',
+      '05',
       style: TextStyle(color: Colors.white, fontSize: 20),
     )
   ];
